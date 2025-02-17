@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yogesh Mishra and I'm a Frontend Developer with passion for Competitive Programming 😉</h2>
+<h2 align="left">Hi 👋! My name is Yogesh Mishra, and I'm a Frontend Developer with a passion for Competitive Programming 😉</h2>
 
 ###
 
