@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo" />
 </a>
 
-  <a href="https://yogeshm01.github.io/my_portfolio/" target="_blank">
+  <a href="https://yogesh-portfolio-iota.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=8A2BE2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 
